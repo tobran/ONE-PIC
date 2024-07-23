@@ -1,5 +1,5 @@
 <div align="center">
-<h1>MagicCanvas</h1>
+<h1>ONE-PIC</h1>
 </div>
 
 coming ...
